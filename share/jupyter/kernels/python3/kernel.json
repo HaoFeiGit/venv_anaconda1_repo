@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "/Users/haofei/opt/anaconda3/envs/venv_anaconda1/bin/python",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}
